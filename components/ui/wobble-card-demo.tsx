@@ -3,8 +3,8 @@ import Image from "next/image";
 import React from "react";
 import { WobbleCard } from "../ui/wobble-card";
 
-import ResepkuImage from "@/public/resepku.png";
-import ResepkuImage2 from "@/public/resepku2.png";
+import ResepkuImage from "@/public/resepku-home.png";
+import ResepkuImage2 from "@/public/resepku-recipe.png";
 
 export function WobbleCardDemo() {
   return (
